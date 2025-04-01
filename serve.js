@@ -32,6 +32,9 @@ app.get('/register', function (request, response) {
 app.get('/auth', function (request, response) {
     response.sendFile(path.join(__dirname, 'login.html'));
 });
+app.get('/home', function (request, response) {
+    response.sendFile(path.join(__dirname, 'home.html'));
+});
 
 // Inicializa o servidor
 const PORT = 3000;

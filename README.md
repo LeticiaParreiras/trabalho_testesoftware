@@ -54,6 +54,7 @@ explicando nossa pasta pra não nos perdemos
 │── 📂 routes/        # Rotas do backend (ex: login)
 │── 📂 static/        # Arquivos estáticos (CSS, JS, imagens)
 │── 📄 index.html     # Página principal 
+│── 📄 home.html      # Página inicial com usuario logado 
 │── 📄 login.html     # Página de login
 │── 📄 register.html  # Página de registro
 │── 📄 package.json   # Configuração do projeto (dependências do Node.js)
