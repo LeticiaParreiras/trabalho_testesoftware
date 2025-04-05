@@ -10,7 +10,7 @@ cd trabalho_testesoftware
 ```
 Instale as dependências do projeto
 ```
-npm intall
+npm install
 ```
 ## 2.Configurando o banco de dados
 crie o banco de dados
